@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\gson-2.5_e7f02eae56cd0e570da82a2b93a65c0b1d8f8a67.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.3.0_08dc0d0af91529691cb474405803597b46ab4b64.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0_a3c0898bbb5bcafa6c58898d3f7d7a0b92b3ce2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\org.fusesource.mqtt-client\mqtt-client\1.12\2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc\mqtt-client-1.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\mqtt-client-1.12_13a17773047e885ca61dda9ca27067142b1f9531.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtbuf\hawtbuf\1.10\a20907168eb4f05c8f777e1671d8070cd06715e4\hawtbuf-1.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a20907168eb4f05c8f777e1671d8070cd06715e4">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\hawtbuf-1.10_dca1181cb4e5bbe46145da3b62bfb128e66891a6.jar" />
+    </item>
+    <item
+        jar="G:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0_5b7ee4713588b1e465ce9339512c200fc0470224.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch\1.21\ec432502e903504b81c757940f916280b03c5696\hawtdispatch-1.21.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec432502e903504b81c757940f916280b03c5696">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\hawtdispatch-1.21_8aaa8088d39b593270fedea3b672a989df65012b.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\libs\Acadiatech_JSON.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7caeae167290b1f956875e5d2d3047ef69555f6c">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\Acadiatech_JSON_078ac04bdbe885ca56370e12779b906d274e9e0f.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\libs\protobuf-java-2.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c589509ec6fd86d5d2fda37e07c08538235d3b9">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\protobuf-java-2.4.1_ac8e7553978452c695aa8ace39530de34c4aa434.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.3.0_9c83178ede258035d6c83a9e3848628e4109c798.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\core-3.2.1_6c26dd83b9bac8c1b6420cbf2a2b4c6eae64d881.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\httpclient-4.3.6_6335ee7ad0e4e06afac0b84d4ac67cc5d72ae17a.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="813c3f25e85b084b33910bad70ee9b314a774029">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\volley_b880b56be338cd3b9a8c786140021bd0198fa082.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_9592d069275754b7efab20b9b7257c5e38799229.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.3.0_c9560004f3bb7b9c6b5be6bf4bf3b64cf0fe2710.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\org.eclipse.paho.client.mqttv3-1.0.2_96112b379ce340248b6f7ec890450f58ab54383f.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\org.fusesource.hawtdispatch\hawtdispatch-transport\1.21\94eece2d30f6d45324c48213762cdc2ec338e687\hawtdispatch-transport-1.21.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94eece2d30f6d45324c48213762cdc2ec338e687">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\hawtdispatch-transport-1.21_9adfd27711aa979f732376300023ee63da755413.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\exploded-aar\com.zhy\percent-support-extends\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29ff8e178d6ef33c8673f430651500068642f833">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\com.zhy-percent-support-extends-1.1.1_cbeb68472601d2ae9e9ff1989a77e7655680517b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ningd\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\android-async-http-1.4.9_d54d7f4c59259b737cc1d126f0cd74b02947c2b8.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudioProjects\ZXingDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88f3f96caa94b9fad37d187640d7f2bd2bccd374">
+        <dex dex="G:\AndroidStudioProjects\ZXingDemo\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_251ff9d069d814277757688ff029828bfd4d82d0.jar" />
+    </item>
+
+</items>

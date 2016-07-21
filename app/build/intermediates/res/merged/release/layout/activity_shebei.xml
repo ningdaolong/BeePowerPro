@@ -1,0 +1,275 @@
+<com.zhy.android.percent.support.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="11"
+    android:background="@color/white_gray"
+    android:orientation="vertical">
+
+    <com.zhy.android.percent.support.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/COLOR_TOP"
+        app:layout_heightPercent="8%h">
+
+        <ImageView
+            android:id="@+id/shebei_img_back"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/icon_left"
+            app:layout_heightPercent="60%h"
+            app:layout_marginLeftPercent="4%w"
+            app:layout_widthPercent="35%h" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/shebei_img_back"
+            android:text="返回"
+            android:textColor="#fcfdfe"
+            app:layout_marginLeftPercent="2%w"
+            app:layout_textSizePercent="40%h" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="设备"
+            android:textColor="#fcfdfe"
+            app:layout_textSizePercent="50%h" />
+
+
+    </com.zhy.android.percent.support.PercentRelativeLayout>
+
+    <com.zhy.android.percent.support.PercentLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/shebei_tv_dingwei"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="定位"
+            android:textColor="#000"
+            app:layout_marginPercent="2%w"
+            app:layout_textSizePercent="3%h" />
+
+        <com.zhy.android.percent.support.PercentLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_heightPercent="8%h"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="0dp"
+                app:layout_heightPercent="90%h"
+                app:layout_widthPercent="45%w"
+                android:layout_height="0dp" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="0dp"
+                app:layout_heightPercent="90%h"
+                app:layout_marginLeftPercent="4%w"
+                app:layout_widthPercent="45%w"
+                android:layout_height="0dp" />
+
+
+        </com.zhy.android.percent.support.PercentLinearLayout>
+        <com.zhy.android.percent.support.PercentLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_heightPercent="8%h"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinner3"
+                android:layout_width="0dp"
+                app:layout_heightPercent="90%h"
+                app:layout_widthPercent="45%w"
+                android:layout_height="0dp" />
+
+            <Spinner
+                android:id="@+id/spinner4"
+                android:layout_width="0dp"
+                app:layout_heightPercent="90%h"
+                app:layout_widthPercent="45%w"
+                app:layout_marginLeftPercent="4%w"
+                android:layout_height="0dp" />
+
+        </com.zhy.android.percent.support.PercentLinearLayout>
+
+        <com.zhy.android.percent.support.PercentLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            app:layout_marginTopPercent="1%h"
+            app:layout_heightPercent="8%h"
+            android:orientation="horizontal">
+
+
+            <Spinner
+                android:id="@+id/spinner5"
+                android:layout_width="0dp"
+                app:layout_heightPercent="90%h"
+                app:layout_widthPercent="45%w"
+                android:layout_height="0dp" />
+            <Spinner
+                android:id="@+id/spinner6"
+                android:layout_width="0dp"
+                app:layout_heightPercent="90%h"
+                app:layout_widthPercent="45%w"
+                app:layout_marginLeftPercent="4%w"
+                android:layout_height="0dp"/>
+
+        </com.zhy.android.percent.support.PercentLinearLayout>
+
+        <com.zhy.android.percent.support.PercentLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_marginTopPercent="1%h"
+            android:orientation="horizontal"
+            app:layout_heightPercent="8%h">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_textSizePercent="40%h"
+                android:text="用户:"
+                android:textColor="#717171" />
+
+            <Spinner
+                android:id="@+id/spinner_Name"
+                android:layout_width="0dp"
+                android:layout_gravity="center_vertical"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_heightPercent="90%h"
+                app:layout_widthPercent="50%w"
+                android:layout_height="0dp" />
+
+        </com.zhy.android.percent.support.PercentLinearLayout>
+
+
+        <!--<ScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:layout_height="match_parent">-->
+        <com.zhy.android.percent.support.PercentLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_marginTopPercent="2%h"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_textSizePercent="5%h"
+                android:text="设备昵称："
+                android:textColor="#717171" />
+
+            <EditText
+                android:id="@+id/et_NAME"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_marginRightPercent="2%w"
+                app:layout_marginTopPercent="2%h"
+                app:layout_heightPercent="14%h"
+                android:textColor="#000" />
+
+            <Button
+                android:id="@+id/shebei_btn_scan"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_marginRightPercent="2%w"
+                app:layout_marginTopPercent="2%h"
+                app:layout_heightPercent="14%h"
+                android:text="扫描二维码"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_textSizePercent="5%h"
+                app:layout_marginTopPercent="2%h"
+                android:text="扫描返回MAC地址："
+                android:textColor="#717171" />
+
+            <EditText
+                android:id="@+id/et_MAC"
+                android:layout_width="match_parent"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_marginRightPercent="2%w"
+                app:layout_marginTopPercent="2%h"
+                app:layout_heightPercent="14%h"
+                android:textColor="#000"
+                android:layout_height="0dp"/>
+            <Button
+                android:id="@+id/shebei_btn_tijiao"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_marginRightPercent="2%w"
+                app:layout_marginTopPercent="2%h"
+                app:layout_heightPercent="14%h"
+                android:text="提交"
+                android:textColor="#000" />
+            <Button
+                android:id="@+id/shebei_btn_chaihui"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                app:layout_marginLeftPercent="2%w"
+                app:layout_marginRightPercent="2%w"
+                app:layout_marginTopPercent="2%h"
+                app:layout_heightPercent="14%h"
+                android:text="拆回"
+                android:textColor="#000" />
+
+            <!--<com.zhy.android.percent.support.PercentLinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--app:layout_marginTopPercent="2%h"-->
+                <!--app:layout_heightPercent="14%h"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_height="0dp">-->
+                <!--<Button-->
+                    <!--android:id="@+id/btn_start"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--app:layout_widthPercent="45%w"-->
+                    <!--app:layout_textSizePercent="40%h"-->
+                    <!--android:text="提交"-->
+                    <!--android:textColor="#000" />-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btn_test"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--app:layout_widthPercent="45%w"-->
+                    <!--app:layout_marginLeftPercent="4%w"-->
+                    <!--app:layout_textSizePercent="40%h"-->
+                    <!--android:text="拆回"-->
+                    <!--android:textColor="#000" />-->
+            <!--</com.zhy.android.percent.support.PercentLinearLayout>-->
+
+
+        </com.zhy.android.percent.support.PercentLinearLayout>
+        <!--</ScrollView>-->
+
+    </com.zhy.android.percent.support.PercentLinearLayout>
+
+
+</com.zhy.android.percent.support.PercentLinearLayout>

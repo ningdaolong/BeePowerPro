@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\raw\\realm_properties"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_open.png",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\mipmap-hdpi\\icon_open.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_off.png",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\mipmap-hdpi\\icon_off.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_saomiao.png",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\mipmap-hdpi\\icon_saomiao.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\icon_left.png",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\mipmap-hdpi\\icon_left.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

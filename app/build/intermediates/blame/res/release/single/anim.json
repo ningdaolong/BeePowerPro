@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\shake_y.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\shake_y.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\shake_x.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\scale.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\cycle.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "G:\\AndroidStudioProjects\\ZXingDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

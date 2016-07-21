@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/COLOR_GRAY"
+    android:orientation="vertical"
+    tools:context="com.app.activity.SelectActivity">
+
+    <View
+        android:id="@+id/title_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/COLOR_TOP" />
+
+    <com.zhy.android.percent.support.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/COLOR_TOP"
+        app:layout_heightPercent="8%h">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/icon_left"
+            app:layout_heightPercent="60%h"
+            app:layout_marginLeftPercent="4%w"
+            app:layout_widthPercent="35%h" />
+
+        <TextView
+            android:id="@+id/tv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/img_back"
+            app:layout_marginLeftPercent="2%w"
+            android:layout_centerVertical="true"
+            android:text="退出"
+            android:textColor="#fcfdfe"
+            app:layout_textSizePercent="40%h" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="扫码选择"
+            android:textColor="#fcfdfe"
+            app:layout_textSizePercent="50%h" />
+
+    </com.zhy.android.percent.support.PercentRelativeLayout>
+
+    <com.zhy.android.percent.support.PercentLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_shebei"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="设备"
+            app:layout_heightPercent="10%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+
+        <Button
+            android:id="@+id/btn_tanjing"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="碳晶"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+
+        <Button
+            android:id="@+id/btn_wangguan"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="网关"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+
+        <Button
+            android:id="@+id/btn_peidianxiang"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="配电箱"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+
+        <Button
+            android:id="@+id/btn_cheku"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="车库"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+        <Button
+            android:id="@+id/btn_hongwai"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="红外"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+        <Button
+            android:id="@+id/btn_kongtiao"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@drawable/btn_selector"
+            android:text="空调"
+            app:layout_heightPercent="10%h"
+            app:layout_marginTopPercent="2%h"
+            app:layout_textSizePercent="4%h"
+            app:layout_widthPercent="60%h" />
+
+
+    </com.zhy.android.percent.support.PercentLinearLayout>
+
+</com.zhy.android.percent.support.PercentLinearLayout>
